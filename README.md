@@ -1,10 +1,10 @@
 # Hearing Aid Lipo Charger
  
-##Motivation
+## Motivation
 
 My brother suffers from twice-ruptured eardrums. As a result, he has lost a significant portion of his hearing and recently has purchased a hearing aid to help with this. The hearing aid that he had purchased had some oversights regarding the mechanical and electrical design. My brother and I took it upon ourselves to fix the problem by adding an circuitry and redesigning the enclosure to accomadate it.
 
-##Overview
+## Overview
 
 The main problems with the design were:
 
