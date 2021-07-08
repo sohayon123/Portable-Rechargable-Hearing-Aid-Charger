@@ -18,4 +18,4 @@ We aimed to remedy both of these problems by designing a PCB that would provide 
 
 The case was completely redesigned to accomodate the new PCB and its various features, including an RGB LED indicator and an ON/OFF switch.
 
- <img src="https://github.com/sohayon123/Hearing_Aid_Lipo_Charger/blob/main/Pictures/Case Render.jpg?raw=true" width="45%" height="45%">  <img src="https://github.com/sohayon123/Hearing_Aid_Lipo_Charger/blob/main/Pictures/Schematic.png?raw=true" width="55%" height="55%"> 
+ <img src="https://github.com/sohayon123/Hearing_Aid_Lipo_Charger/blob/main/Pictures/Case Render.jpg?raw=true" width="45%" height="45%">  
