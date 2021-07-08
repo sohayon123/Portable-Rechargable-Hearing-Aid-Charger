@@ -14,7 +14,7 @@ The main problems with the design were:
 
 We aimed to remedy both of these problems by designing a PCB that would provide regulated 5V output from a 3.7V Lithium Polymer battery, as well as allow the user to charge the battery via a standard micro USB cable. This PCB was designed to plug directly into the micro USB port of the PCB that was already included in the case.
 
- <img src="https://github.com/sohayon123/Hearing_Aid_Lipo_Charger/blob/master/Pictures/Front.jpg?raw=true" width="45%" height="45%"> <img src="https://github.com/sohayon123/Hearing_Aid_Lipo_Charger/blob/master/Pictures/Back.jpg?raw=true" width="45%" height="45%">
+ <img src="https://github.com/sohayon123/Hearing_Aid_Lipo_Charger/blob/master/Pictures/Front.png?raw=true" width="45%" height="45%"> <img src="https://github.com/sohayon123/Hearing_Aid_Lipo_Charger/blob/master/Pictures/Back.png?raw=true" width="45%" height="45%">
 
 The case was completely redesigned to accomodate the new PCB and its various features, including an RGB LED indicator and an ON/OFF switch.
 
